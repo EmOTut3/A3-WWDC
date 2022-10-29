@@ -6,7 +6,7 @@
 * [Setup and Launch](#setting-up-and-launching-the-game)
 * [Project Status](#project-status)
 * [Sources](#sources)
-* [Preview](#preview)
+* [Preview Images](#preview-images)
 
 
 ## Introduction
@@ -37,5 +37,8 @@ This project has been completed and there are no more planned changes.
 ## Sources 
 Significant inspiration came from: [Python Programming's Pygame Tutorial](https://pythonprogramming.net/pygame-python-3-part-1-intro/)
   
-## Preview
+## Preview images
 ![Preview image](./RECIPE_GAME/intro_image.png)
+
+![Straw image](./RECIPE_GAME/game_over_image.png)
+
