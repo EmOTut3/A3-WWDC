@@ -29,4 +29,4 @@ Then you can either:
     $ python3 recipe_game.py
   ```
 ## Preview
-![Preview image](./RECIPE\ GAME/intro_image.png)
+! [Preview image](./RECIPE GAME/intro_image.png)
