@@ -40,5 +40,7 @@ Significant inspiration came from: [Python Programming's Pygame Tutorial](https:
 ## Preview images
 ![Preview image](./RECIPE_GAME/intro_image.png)
 
-![Straw image](./RECIPE_GAME/game_over_image.png)
+![Recipes image](./RECIPE_GAME/desserts_list_dc.png)
+
+![Ingredients image](./RECIPE_GAME/ingredients_list_dc.png)
 
